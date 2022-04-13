@@ -17,8 +17,8 @@
    💬  Communication tool  💬
 </h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/Trello-0052CC?style=flat&logo=Trello&logoColor=4584b6"/>
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=092E20"/> 
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=flat&logo=Trello&logoColor=4584b6"/>
   
 </div>
 </br>
