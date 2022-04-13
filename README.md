@@ -2,7 +2,7 @@
 </br>
 
 <h3 align="center">
-    🛠 Tech Stack 🛠
+    🛠  Tech Stack  🛠
 </h3>
 
 <div align="center">
@@ -14,7 +14,7 @@
 </br>
 
 <h3 align="center">
-   💬 Communication tool 💬
+   💬  Communication tool  💬
 </h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Trello-0052CC?style=flat&logo=Trello&logoColor=4584b6"/>
@@ -25,7 +25,7 @@
 
 <div align="center">
 <h3 align="center">
- 🌱 GitHub Stats 🌱
+ 🌱  GitHub Stats  🌱
 </h3>
  
 [![Ah Young Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeay3)](https://github.com/anuraghazra/github-readme-stats)
