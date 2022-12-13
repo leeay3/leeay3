@@ -1,4 +1,9 @@
 <h1 align="center"> 이아영 / Ah Young Lee</h1>
+
+<div align="center">
+    <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fleeay3&count_bg=%2388DADE&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+</div>
+    
 </br>
 
 <h3 align="center">
@@ -6,8 +11,8 @@
 </h3>
 
 <div align="center">
-    <img src="https://img.shields.io/badge/Python-ffde57?style=flat&logo=Python&logoColor=4584b6"/>
-    <img src="https://img.shields.io/badge/Django-white?style=flat&logo=Django&logoColor=092E20"/>
+    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
+    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green">
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
 </div>
