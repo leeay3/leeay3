@@ -1,5 +1,5 @@
 <h1 align="center"> 이아영 / Ah Young Lee</h1>
-<a href="mailto:dkdud2408@gmail.com">
+<a href="mailto:dkdud2408@gmail.com"  align="center">
     <img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white" />
 </a>
 
